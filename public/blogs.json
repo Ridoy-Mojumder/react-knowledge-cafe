@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "The Art of Cooking",
+      "cover_image": "https://i.ibb.co/5ssHCqL/nick-morrison-FHnnjk1-Yj7-Y-unsplash.jpg",
+      "author": "John Smith",
+      "author_img": "https://i.ibb.co/yB8JgKp/paige-cody-ITTqj-S3-Upo-Y-unsplash.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 30,
+      "hashtags": ["beginners", "ES6"]
+    },
+    {
+      "id": 2,
+      "title": "Introduction to Python Programming",
+      "cover_image": "https://i.ibb.co/G2gxw3c/carl-heyerdahl-KE0n-C8-58-MQ-unsplash.jpg",
+      "author": "Jane Doe",
+      "author_img": "https://i.ibb.co/PmNg6hL/bruce-mars-8-YG31-Xn4d-Sw-unsplash.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 45,
+      "hashtags": ["python", "programming", "#oding"]
+    },
+    {
+      "id": 3,
+      "title": "The Power of Positive Thinking",
+      "cover_image": "https://i.ibb.co/Qdz80wt/andrew-neel-cckf4-Ts-HAuw-unsplash.jpg",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/XysPhbB/austin-distel-7uo-Mmz-Pd2-JA-unsplash.jpg",
+      "posted_date": "2024-03-08",
+      "reading_time": 20,
+      "hashtags": ["positivity", "selfImprovement", "motivation"]
+    },
+    {
+      "id": 4,
+      "title": "Exploring the Universe: A Beginner's Guide",
+      "cover_image": "https://i.ibb.co/YBTDHXP/desk-dark-concept-with-copy-space.jpg",
+      "author": "Michael Anderson",
+      "author_img": "https://i.ibb.co/kDsD79P/michael-dam-m-EZ3-Po-FGs-k-unsplash.jpg",
+      "posted_date": "2024-03-05",
+      "reading_time": 60,
+      "hashtags": ["universe", "astronomy", "exploration"]
+    },
+    {
+      "id": 5,
+      "title": "Healthy Living: Tips for a Balanced Lifestyle",
+      "cover_image": "https://i.ibb.co/F4q81sp/flat-lay-desk-dark-concept-with-copy-space.jpg",
+      "author": "Sarah Thompson",
+      "author_img": "https://i.ibb.co/w7WJFfh/austin-distel-Vv-Acr-Va56fc-unsplash.jpg",
+      "posted_date": "2024-03-01",
+      "reading_time":25,
+      "hashtags": ["healthyLifestyle", "wellness", "fitness"]
+    }
+  ]
+  
