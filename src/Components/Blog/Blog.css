@@ -1,0 +1,39 @@
+.blog-container {
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    width: 300px; /* You can adjust the width as per your design */
+    margin: 20px;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    margin-bottom: 10px;
+}
+
+.cover-image {
+    width: 100%;
+    height: auto;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.author-avatar {
+    margin-top: 10px;
+}
+
+.author-img {
+    width: 50px; /* You can adjust the size as needed */
+    height: 50px; /* You can adjust the size as needed */
+    border-radius: 50%; /* To make it a perfect circle */
+}
